@@ -1,0 +1,10 @@
+---
+layout: post
+title:  First!
+date:   2022-10-13 19:17:22 -0700
+author: Blake Ramsdell
+categories: meta
+---
+I noticed I had an unused `bcr.github.io` out there. So now I'm using it.
+Every once in awhile I find or make something interesting, so I'll put some of
+that here. I'm a giver.
