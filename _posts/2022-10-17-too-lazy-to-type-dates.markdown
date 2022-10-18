@@ -4,7 +4,7 @@ title:      Too Lazy to Type Dates
 date:       2022-10-17T21:44:32-07:00
 author:     Blake Ramsdell
 categories: coding
-tags:       python
+tags:       python jekyll liquid
 ---
 Jekyll wants the filename for a post to have the date. And wants a date in a
 post. And I'm too lazy to work hard to make sure I got it right. So I made
